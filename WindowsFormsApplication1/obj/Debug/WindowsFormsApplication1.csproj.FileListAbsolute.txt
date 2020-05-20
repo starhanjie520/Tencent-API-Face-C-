@@ -1,0 +1,90 @@
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.dll
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.pdb
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.xml
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\H\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.Bson.xml
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.Bson.dll
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.dll
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.dll
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.dll
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.dll
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.Bson.pdb
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.Bson.xml
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.pdb
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.xml
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.pdb
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.xml
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.pdb
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.xml
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.pdb
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.xml
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\vmware-host\Shared Folders\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.dll
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.pdb
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.xml
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HAN\Desktop\C# Tencent SDK Face\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

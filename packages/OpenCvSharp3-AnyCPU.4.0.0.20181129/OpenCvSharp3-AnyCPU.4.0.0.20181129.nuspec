@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OpenCvSharp3-AnyCPU</id>
+    <version>4.0.0.20181129</version>
+    <title>OpenCvSharp3</title>
+    <authors>shimat</authors>
+    <owners>shimat</owners>
+    <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
+    <projectUrl>https://github.com/shimat/opencvsharp</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/opencvsharp3-anycpu/4.0.0.20181129/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>OpenCV wrapper for .NET Framework</description>
+    <summary>OpenCV 4.x wrapper</summary>
+    <copyright>Copyright 2008-2018</copyright>
+    <tags>Image Processing OpenCV Wrapper FFI opencvsharp</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework2.0" />
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework="Unsupported0.0">
+        <dependency id="System.Drawing.Common" version="4.5.0" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Security" targetFramework=".NETFramework200.0" />
+      <frameworkAssembly assemblyName="System.Web" targetFramework=".NETFramework200.0" />
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework200.0" />
+      <frameworkAssembly assemblyName="System.Windows.Forms" targetFramework=".NETFramework200.0" />
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework400.0" />
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework400.0" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework400.0" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework400.0" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework=".NETFramework400.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
